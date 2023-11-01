@@ -6,11 +6,5 @@
     "keywords": [
         "UI"
     ],
-    "category": "UI",
-    "files": [
-        "/README.md",
-        "/README.md.meta",
-        "/package.json",
-        "/package.json.meta",
-    ]
+    "category": "UI"
 }
