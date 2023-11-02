@@ -6,5 +6,10 @@
     "keywords": [
         "UI"
     ],
-    "category": "UI"
+    "category": "UI",
+    "files": [
+        "Editor/**",
+        "Runtime/**"
+    ]
+    
 }
